@@ -1,9 +1,9 @@
 # About Me
 
-![Picture of me]()
+![Picture of me](https://avatars2.githubusercontent.com/u/49763671?s=460&v=4)
 
-Hi, I'm Charlene Bernard. I'm a ________ at *__________*.
+Hi, I'm Alex Hoover. I'm a UX Designer at *USDS*.
 
-- **Past Companies and Organizations:**
-- **Hobbies:**
-- **Favorite Website:** []()
+- **Past Companies and Organizations:** OneGlobe, ContractStandards
+- **Hobbies:** Hiking
+- **Favorite Website:** [Twitter](www.twitter.com)
